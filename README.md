@@ -24,4 +24,4 @@ Had challenges trying to set up the stretch of turning the regression model to a
 ## Future Goals
 (what would you do if you had more time?)
 -To carry out from cleaning process on the NAN values on the tables
--Further research to understand the process of turning the regression model to a classification model.
+-Further research to understand the process of turning the regression model to a classification model. 
